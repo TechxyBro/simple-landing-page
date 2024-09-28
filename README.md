@@ -31,6 +31,9 @@ To get a local copy of this project up and running, follow these simple steps:
 
 Please do not simply copy and paste the code into your project. It’s important to first attempt to create the project yourself for practice. If you encounter any problems, feel free to leave a comment on the video. After trying and understanding the concepts, you can use the code provided here.
 
-**VIDEO LINK HERE : ** 
+## Video Tutorial
+
+Watch the tutorial here: [Creating a Modern Portfolio Website](https://youtu.be/x7S_7gezsAo?si=J7yQ5gfs3w3wq-Fj)
+ 
 
 ## SUBSCRIBE TO TECHXY  
